@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quuhooroh.theswitchelectrical.com.au/sitemap.xml
